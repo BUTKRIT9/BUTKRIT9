@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BUTKRIT29
+- 👋 Hi, I’m Thanakrit Yokart
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me yokart.butter@gmail.com
 
