@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BUTKRIT9
-- 👀 I’m interested in Python,JavaScript,Swift
+- 👋 Hi, I’m @BUTKRIT29
 - 🌱 I’m currently learning Computer Engineering
-- 📫 How to reach me butkrit9@gmail.com
+- 📫 How to reach me yokart.butter@gmail.com
 
 <!---
 BUTKRIT9/BUTKRIT9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
