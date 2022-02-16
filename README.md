@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thanakrit Yokart
-- 🌱 I’m currently learning Computer Engineering at Chiang Mai Unisersity
+- 🌱 I’m currently learning Computer Engineering at Chiang Mai University
 - 📫 How to reach me yokart.butter@gmail.com
 
 <!---
